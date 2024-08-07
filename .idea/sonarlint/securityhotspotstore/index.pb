@@ -1,3 +1,32 @@
 
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+D
+test/test_ui_test.py,f\0\f08fe02fe4946153f22753a6d6c9a30ada54b027
+9
+	page/info,0\1\0117a24ef077786ecabfacc2b6085dbdd0e70f14
+A
+page/LoginPage.py,f\c\fc7eb99fccd0f1d2f4725f505766bd804a85b192
+G
+test/ui/test_ui_test.py,c\9\c975d1df1c6f1b236bf83f0e207bc5ebe3a9f1f2
+@
+page/__init__.py,9\7\9767ecd2406c222247b9bb9620f3fd6cae830bcb
+C
+test/ui/__init__.py,a\b\ab554fa637cf55294abb96307fece824255fe353
+@
+test/conftest.py,e\1\e14c6d1385baa4fc3ea84caa411cc2844bf2e038
+J
+test_data/DaraProvieder.py,c\7\c7d5a63e833ef5570e53739ce5c2b3be47c84d61
+>
+test_data.json,4\4\44fe88d7e6ca0547ae6fb1a110ca4d21a974755f
+O
+configuration/ConfigProvider.py,2\e\2e73eae4645b988a31aacd2b967bdc9580e33d69
+?
+test_config.ini,7\2\72dae2e06cce95c56ec63cd6c969873fe067c128
+:
+
+pytest.ini,e\a\ea898f73cf4daab2e41a2c710093f364ce6a7d1b
+@
+requirements.txt,1\9\19359a61ae2446b51b549167b014da2fcf265768
+6
+123.py,9\3\932e005cdd83b6dcde5df259b24f9857c888e6dd
